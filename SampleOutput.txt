@@ -1,0 +1,51 @@
+Please enter your credits at pass: 12  p
+Integer required.
+Please enter your credits at pass: 120
+Please enter your credits at defer: 20
+Please enter your credits at fail: 20
+Total incorrect.
+Please enter your credits at pass: 120
+Please enter your credits at defer: 0
+Please enter your credits at fail: 0
+Progress.
+Please enter 'y' if you want to veiw resuts or any other key if you want to quit :y
+Please enter your credits at pass: 140
+Out of range.
+Please enter your credits at pass: 12 00
+Please enter your credits at defer: 20
+Please enter your credits at fail: 0
+Progress(module trailer).
+Please enter 'y' if you want to veiw resuts or any other key if you want to quit :y
+Please enter your credits at pass: 100
+Please enter your credits at defer: 0
+Please enter your credits at fail: 20
+Progress(module trailer).
+Please enter 'y' if you want to veiw resuts or any other key if you want to quit :y
+Please enter your credits at pass: 40
+Please enter your credits at defer: 40
+Please enter your credits at fail: 40
+Module retriever.
+Please enter 'y' if you want to veiw resuts or any other key if you want to quit :y
+Please enter your credits at pass: 60
+Please enter your credits at defer: 20
+Please enter your credits at fail: 5 40
+Module retriever.
+Please enter 'y' if you want to veiw resuts or any other key if you want to quit :20
+===========================================================
+Horizontal Histogram
+"Progress" 1  : *
+"Trailer" 2   : **
+"Retriever" 2 : **
+"Excluded" 0  : 
+===========================================================
+
+Vertical Histogram
+Progress Trailing Retriever Excluded
+   *        *         *            
+            *         *            
+
+Progress - 120, 0, 0
+Progress(module trailer) - 100, 20, 0
+Progress(module trailer) - 100, 0, 20
+Module retriever - 40, 40, 40
+Module retriever - 60, 20, 40
